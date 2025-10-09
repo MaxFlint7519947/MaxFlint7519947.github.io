@@ -30,9 +30,12 @@ $(function () {
     toggleGrid();
 
 
-    // TODO 2 - createPlatform(-5,6,100,20); createPlatform(70,30,50,30); createPlatform(-30,-75,100,20);
-
-
+    // TODO 2 - 
+    createPlatform(-5,6,150,20); 
+     createPlatform(70,30,150,20); 
+     createPlatform(-30,-75,150,20);
+createPlatform(300,360,150,20);
+createPlatform(40,70,150,20);
 
 
     // TODO 3 - Create Collectables
